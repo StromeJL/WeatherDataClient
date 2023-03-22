@@ -69,3 +69,5 @@ else:
 # todo: add gui
     # todo: add additional methods of location input, ie. map interaction, gps, etc.
 # todo: improve error handling and proactive error checking
+
+# todo - project: add requirements.txt and venv instructions, possibly use docker image
